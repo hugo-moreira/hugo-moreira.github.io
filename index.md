@@ -21,7 +21,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 - Adoro conhecer coisas novas, trabalhar em grupo, obter novas experiências, sou proativo, sempre busco resolver problemas de forma objetiva  e procurando me conhecer cada vez mai 💻
 
-## Meu Linktree [:link:]()
-  - [Linktree]()
+## Meu Linkdin [:link:](https://www.linkedin.com/in/hugo-moreira-405561b8/)
+  - [Linkdin](https://www.linkedin.com/in/hugo-moreira-405561b8/)
 
 
