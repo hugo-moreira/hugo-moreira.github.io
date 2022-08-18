@@ -1,5 +1,4 @@
 
-![bros](https://github.com/hugo-moreira/hugo-moreira.github.io/blob/main/bros.gif)
 
 
 
