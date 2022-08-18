@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <h4 align="center">
  
@@ -36,4 +36,3 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 
 ## Meu Linktree [:link:]()
-</html>
