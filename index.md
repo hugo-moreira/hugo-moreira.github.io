@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-You can use the [editor on GitHub](https://github.com/hugo-moreira/hugo-moreira.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/hugo-moreira)]()
 
-### Markdown
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/hugo-moreira)](https://www.linkedin.com/in/hugo-moreira-405561b8/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h3 align="center">  <br>
 
-# Header 1
-## Header 2
-### Header 3
+Olá, eu sou o Hugo! 🇧🇷
+<br>
 
-- Bulleted
-- List
+</h3>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Formado em Redes de computadores de pela Estácio de Sá e técnico em processamento de dados pelo Cotemig.
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um profissional na área de automação e Dados.
+```
+## Tópicos que estou estudando atualmente 💻
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  - Python
+  - Alteryx - ETL
+  - Automation Anywhare - Automação RPA
+  - SQL
+  - Regex
 
-### Jekyll Themes
+## Alguns fatos sobre mim 👨🏻‍💻
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hugo-moreira/hugo-moreira.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Adoro conhecer coisas novas, trabalhar em grupo, obter novas experiências, sou proativo, sempre busco resolver problemas de forma objetiva  e procurando me conhecer cada vez mais.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Meu Linktree [:link:]()
